@@ -1,0 +1,18 @@
+{
+    "Logger" :
+    {
+        "width"                 : 640,
+        "height"                : 480,
+        "fps"                   : 30,
+        
+        "original file path"    : "/home/pi/images/",
+        
+        "Object Detector Server IP addr": "192.168.0.152",
+        "Object Detector Server port": 5000,
+        "Mqtt Topic": "MQTT/test/topic",
+        "Mqtt Client Id": "publisher",
+        "Mqtt Broker IP addr": "192.168.0.20",
+        "Mqtt Broker port": 1883,
+        "Mqtt Threads": 4
+    }
+}
